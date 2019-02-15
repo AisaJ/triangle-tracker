@@ -1,14 +1,18 @@
 body{
   font-family: 'Maven Pro', sans-serif;
   font-size: 1.5em;
+  color: white;
 }
 .container{
-  background-color: #cafafe;
+  background-color: #5cdb95;
 }
 h1,h2{
   text-align: center;
 }
 form{
-  background-color: #fc4445;
+  background-color: #05386b;
   text-align: center;
+}
+button{
+  background-color: #8ee4af;
 }
