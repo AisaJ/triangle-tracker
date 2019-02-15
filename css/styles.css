@@ -4,9 +4,14 @@ body{
   color: white;
   background-color: #5cdb95;
 }
-.container{
-
-
+nav a{
+  float: right;
+  text-decoration: none;
+  color: #05386b;
+  padding-left: 0.5em;
+  padding-right: 0.5em;
+  border: 0.5px solid white;
+  background-color: rgb(255,255,255);
 }
 h1,h2{
   text-align: center;
