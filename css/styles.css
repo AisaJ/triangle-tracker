@@ -18,6 +18,7 @@ form{
   box-shadow: 0.5em 0.5em 0.7em white;
   margin-left: 30%;
   margin-right: 30%;
+  padding: 0.5em;
 }
 button{
   background-color: #8ee4af;
