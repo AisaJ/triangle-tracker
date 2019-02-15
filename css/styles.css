@@ -10,6 +10,10 @@ body{
 }
 h1,h2{
   text-align: center;
+  color: #05386b;
+}
+hr{
+  color: white;
 }
 form{
   background-color: #05386b;
@@ -24,8 +28,10 @@ button{
   background-color: #8ee4af;
   padding: 1em;
   border-radius: 25px;
-
 }
 #show{
   color: #8ee4af;
+}
+input{
+  padding: 0.5em;
 }
