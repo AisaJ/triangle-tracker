@@ -22,4 +22,10 @@ form{
 }
 button{
   background-color: #8ee4af;
+  padding: 1em;
+  border-radius: 25px;
+
+}
+#show{
+  color: #8ee4af;
 }

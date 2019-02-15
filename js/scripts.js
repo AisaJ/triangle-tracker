@@ -4,6 +4,7 @@ function triangleCheck() {
   var b = parseInt(document.getElementById("sideB").value);
   var c = parseInt(document.getElementById("sideC").value);
 
+  //checks if a dimension entered is 0
   if(a===0 || b===0 || c===0) {
     document.getElementById("show").innerHTML = "Enter a valid number!";
     alert("Value entered must be greater than zero");
