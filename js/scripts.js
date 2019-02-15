@@ -5,7 +5,7 @@ function triangleCheck() {
   var c = parseInt(document.getElementById("sideC").value);
 
   if(a===0 || b===0 || c===0) {
-    document.getElementById("show").innerHTML = "Enter a valid value!";
+    document.getElementById("show").innerHTML = "Enter a valid number!";
     alert("Value entered must be greater than zero");
     confirm("Please try again Or see instructions.");
   }else if(a+b>c && b+c>a && c+a>b){
