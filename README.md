@@ -1,5 +1,5 @@
 # Triangle Tracker
-#### This is a Triangle type checker application, February 16,2019
+#### This is a Triangle Type Checker application, February 16,2019
 #### By **Aisa Jemila**
 ## Description
 Github repository :https://aisaj.github.io/triangle-tracker/
@@ -11,13 +11,13 @@ This is a web application that is used to check the type of triangle entered usi
 * Go to your github account repositories to find the project
 ## Behavior Driven Development (BDD)
 | General Behavior     | Input     | Output |
-| :------------- | :------------- | :------------- |
+| :-------------: | :-------------: | :-------------: |
 | The application determines what type of a triangle is keyed in according to the dimensions submitted      | Three text-area input boxes.      | When user submits the dimensions entered, it displays the specified triangle. |
-| An about page that tells the user on what the various results to expect and guideline incase they're stuck on what to do on the application. | Submit and back buttons, links to redirect to the different pages | Toggles between the home and about page |
+| An about page that tells the user on what the various results to expect and guideline in case they're stuck on what to do on the application. | Submit and back buttons, links to redirect to the different pages | Toggles between the home and about page |
 ## Known Bugs
-No bugs at the moment,but incase you come across any other errors or failure of the application, do reach out via email: aisajemila@gmail.com
+No bugs at the moment, but in case you come across any errors or failure of the application, do reach out via email: aisajemila@gmail.com
 ## Technologies Used
-The application is built on HTML for the stucture, CSS on styling and JavaScript for the functionality.
+The application is built on HTML for the structure, CSS on styling and JavaScript for the functionality.
 ## Support and contact details
 For any queries and suggestions on how I could improve on the application, please contact the support team via Tel No: +254 707 306910 or Email: aisajemila@gmail.com. Any comment on what you liked or feel should have been placed better is appreciated. Tips and other code tricks are welcomed as well.
 ### License
