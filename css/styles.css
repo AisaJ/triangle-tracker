@@ -38,6 +38,7 @@ button{
 }
 input{
   padding: 0.5em;
+  width: 6em;
 }
 .body2{
   background-color: white;
@@ -56,6 +57,7 @@ input{
   color: white;
   float: right;
   padding: 1.5em;
+  margin-top: 1em;
 }
 #triangles div p{
   float: left;
@@ -66,4 +68,9 @@ img{
 }
 #note{
   text-align: left;
+}
+@@media only screen and (max-width: 600px) {
+  input{
+    padding: 0.5em;
+    width: 15em;
 }
