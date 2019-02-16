@@ -1,8 +1,8 @@
 # Triangle Tracker
-#### This is a Triangle Type Checker application, February 16,2019
+#### This is a Triangle Type Checker application, February 16, 2019.
 #### By **Aisa Jemila**
 ## Description
-Github repository :https://aisaj.github.io/triangle-tracker/
+Github repository: https://aisaj.github.io/triangle-tracker/
 This is a web application that is used to check the type of triangle entered using the sides measurements. The user is supposed to enter 3 random numbers on the text-area input and after clicking the button check it will display what type of triangle it is. If user inputs any side dimension as zero, this automatically nullifies the test and alerts the user to enter valid number. There is an about section describing on what results to expect and how to go about with application in case one stuck.
 ## Setup/Installation Requirements
 * Ensure you have a github account
