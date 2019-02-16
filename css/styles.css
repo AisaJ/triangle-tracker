@@ -55,4 +55,10 @@ input{
   color: white;
   float: right;
   padding: 1.5em;
+}/*
+#triangles p{
+  float: left;
+}*/
+img{
+  width: 6em;
 }

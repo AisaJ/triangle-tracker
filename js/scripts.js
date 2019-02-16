@@ -27,7 +27,7 @@ function triangleCheck() {
 //Giving triangle names and displaying in the html document
 function triNames() {
   var names = [];
-  names.push("Equilateral","Isosceles","Scalene");
+  names.push("Equilateral:","Isosceles:","Scalene:");
   var i = names[0];
   var j = names[1];
   var k = names[2];
