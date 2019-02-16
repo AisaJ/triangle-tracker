@@ -31,6 +31,7 @@ function triNames() {
   var i = names[0];
   var j = names[1];
   var k = names[2];
-  document.getElementById("i").innerHTML = i;
-
+  document.getElementById("i").innerHTML = i.bold();
+  document.getElementById("j").innerHTML = j.bold();
+  document.getElementById("k").innerHTML = k.bold();
 }
