@@ -39,8 +39,20 @@ button{
 input{
   padding: 0.5em;
 }
-.container2{
+.body2{
+  background-color: white;
   background-image: url('../images/background.png');
   background-repeat: no-repeat;
   background-size: cover;
+}
+.container2{
+  background-color: rgba(142, 228, 175, 0.4);
+  color: #05386b;
+  padding: 1em;
+}
+#btn2{
+  background-color: #05386b;
+  color: white;
+  float: right;
+  padding: 1.5em;
 }
