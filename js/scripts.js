@@ -10,7 +10,7 @@ function triangleCheck() {
   if(dimension[0]===0 || dimension[1]===0 || dimension[2]===0) {
     document.getElementById("show").innerHTML = "Enter a valid number!";
     alert("Value entered must be greater than zero");
-    confirm("Please try again Or see instructions.");
+    confirm("Please try again Or see about page.");
   }else if(a+dimension[1]>dimension[2] && dimension[1]+dimension[2]>dimension[0] && dimension[2]+dimension[0]>dimension[1]){
     if(dimension[0]===dimension[1] && dimension[1]===dimension[2]){
       document.getElementById("show").innerHTML = "This is an Equilateral Triangle".bold();
