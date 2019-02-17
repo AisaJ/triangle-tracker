@@ -13,11 +13,11 @@ function triangleCheck() {
     confirm("Please try again Or see instructions.");
   }else if(a+dimension[1]>dimension[2] && dimension[1]+dimension[2]>dimension[0] && dimension[2]+dimension[0]>dimension[1]){
     if(dimension[0]===dimension[1] && dimension[1]===dimension[2]){
-      document.getElementById("show").innerHTML = "This is an Equilateral Triangle";
+      document.getElementById("show").innerHTML = "This is an Equilateral Triangle".bold();
     }else if (dimension[0]===dimension[1] || dimension[1]===dimension[2] || dimension[0]===dimension[2]){
-      document.getElementById("show").innerHTML = "This is an Isosceles Triangle";
+      document.getElementById("show").innerHTML = "This is an Isosceles Triangle".bold();
     }else if(dimension[0]!==dimension[1] && dimension[1]!==dimension[2] && dimension[2]!==dimension[1]){
-      document.getElementById("show").innerHTML = "This is a Scalene Triangle";
+      document.getElementById("show").innerHTML = "This is a Scalene Triangle".bold();
     }
   }else{
     alert("Not a Triangle!");
