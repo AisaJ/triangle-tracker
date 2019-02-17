@@ -12,11 +12,11 @@ This is a web application that is used to check the type of triangle entered usi
 ## Behavior Driven Development (BDD)
 | General Behavior     | Input     | Output |
 | :-------------: | :-------------: | :-------------: |
-|  User is given an alert that dimensions cannot be zero   | User enters any or all dimensions as zer0.      | Dimension must be greater than 0. |
+|  User is alerted that dimensions cannot be zero   | User enters any or all dimensions as zer0.      | Dimensions must be greater than 0. |
 | User submits all three values to be the same | All three dimensions equal | This is an Equilateral triangle. |
 | User keys in two values same and the third to be different | Two equal dimensions and one different | This is an Isosceles triangle. |
 | User keys in all three values different | Three unequal dimensions | This is a Scalene triangle. |
-| User does not type in any values / keys in values that do not form a triangle | null entries & abnormal dimensions | Not a triangle. |
+| User does not type in any values / keys in values that do not form a triangle | Null entries & abnormal dimensions | Not a triangle. |
 ## Known Bugs
 No bugs at the moment, but in case you come across any errors or failure of the application, do reach out via email: aisajemila@gmail.com
 ## Technologies Used
